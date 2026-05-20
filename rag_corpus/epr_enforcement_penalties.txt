@@ -1,0 +1,46 @@
+TITLE: EPR Enforcement and Penalty Framework for Plastic Packaging — India
+SOURCE: Ministry of Environment, Forest and Climate Change Advisory Note (Mock Advisory)
+
+SECTION 1: Regulatory Framework for Enforcement
+Enforcement of EPR obligations for plastic packaging in India is carried out under the Environment Protection Act, 1986 and the Plastic Waste Management Rules, 2016 (amended 2022). CPCB and SPCBs are the primary enforcement bodies. They have powers to issue notices, impose environmental compensation, and cancel EPR registrations.
+
+SECTION 2: Types of Violations
+Common EPR violations include:
+(a) Failure to register on the CPCB EPR portal despite meeting the threshold turnover.
+(b) Non-submission of monthly declarations within the stipulated 30-day window.
+(c) Under-declaration of plastic quantities placed on the market.
+(d) Failure to meet annual EPR collection and recycling targets.
+(e) Submission of false or misleading data on the EPR portal.
+(f) Failure to cooperate with CPCB or SPCB audits.
+
+SECTION 3: Environmental Compensation
+Environmental Compensation (EC) is the primary financial penalty for EPR non-compliance. EC is calculated based on the shortfall in meeting EPR obligations:
+- EC for unmet EPR obligation = Shortfall (metric tonnes) × EC Rate (INR/tonne)
+- EC rates for FY 2023-24: Rigid Plastic: INR 15,000/tonne; Flexible Plastic: INR 20,000/tonne; Multilayer Plastic: INR 25,000/tonne
+EC notices are issued at the end of each financial year and must be paid within 60 days. Failure to pay attracts additional interest at 12% per annum.
+
+SECTION 4: Show Cause Notices
+Before imposing penalties, CPCB typically issues a Show Cause Notice (SCN) giving the producer 21 days to respond with reasons why penalties should not be imposed. Producers should submit detailed reconciliation reports, ERP data, and any corrective actions taken in response to an SCN. A well-documented response can result in reduction or waiver of penalties.
+
+SECTION 5: Registration Cancellation
+Repeated or willful violations can result in cancellation of EPR registration. Registration cancellation has serious consequences:
+- The producer cannot legally sell plastic packaging products under their brand.
+- The producer is listed on the CPCB website as a defaulter.
+- Criminal proceedings may be initiated under the Environment Protection Act.
+- The producer's bank accounts may be attached to recover outstanding Environmental Compensation.
+Registration cancellation is considered a last resort and is typically preceded by multiple notices and opportunities to remedy the violation.
+
+SECTION 6: Dispute Resolution
+Producers who disagree with a CPCB penalty order can:
+1. File a representation with the CPCB Chairman within 30 days of the order.
+2. Appeal to the National Green Tribunal (NGT) within 30 days of CPCB's final order.
+3. Seek judicial review in the High Court in exceptional circumstances.
+The NGT is the preferred forum for EPR disputes and typically resolves cases within 6-12 months.
+
+SECTION 7: Good Compliance Practices
+To avoid penalties, producers should:
+- Set up automated monthly reconciliation between EPR declarations and ERP data.
+- Maintain a buffer of EPR certificates (at least 110% of projected monthly obligation).
+- Conduct half-yearly internal audits of plastic procurement and declaration data.
+- Designate a compliance officer responsible for EPR reporting and portal submissions.
+- Subscribe to CPCB notifications to stay updated on rule changes, EC rates, and portal updates.

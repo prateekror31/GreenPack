@@ -1,0 +1,36 @@
+TITLE: CPCB Guidelines on Extended Producer Responsibility (EPR) for Plastic Packaging — 2022
+SOURCE: Central Pollution Control Board, India (Mock Policy Document for demonstration)
+
+SECTION 1: Overview of EPR Framework
+Extended Producer Responsibility (EPR) is a policy approach under which producers are given a significant responsibility — financial and/or physical — for the treatment or disposal of post-consumer products. Under the Plastic Waste Management Rules, 2016 (amended 2022), every Producer, Importer, and Brand Owner (PIBO) that introduces plastic packaging into the Indian market must register on the EPR portal maintained by the Central Pollution Control Board (CPCB).
+
+SECTION 2: Registration Requirements
+All producers with an annual turnover exceeding INR 1 crore who use plastic packaging are required to register with CPCB. Registration must be completed on the centralized EPR portal at https://eprplastic.cpcb.gov.in. Upon registration, each entity receives a unique Producer ID (e.g., GREENPACK-001). Failure to register can result in penalties under the Environment Protection Act, 1986.
+
+SECTION 3: Categories of Plastic Packaging
+The Plastic Waste Management Amendment Rules, 2022, classify plastic packaging into the following categories for EPR purposes:
+- Category I (Rigid Plastic): Includes PET bottles, HDPE containers, plastic crates, and similar hard-shell packaging.
+- Category II (Flexible Plastic): Includes multi-use carry bags, pouches, sachets, wrappers, and similar soft packaging.
+- Category III (Multilayer Plastic / Multi-Material): Includes packaging made of more than one type of material such as multilayer packaging, tetra packs, and similar products.
+Producers must declare quantities separately for each category in kilograms (kg) on a monthly basis.
+
+SECTION 4: Monthly Declaration Requirements
+Every registered producer must submit a monthly declaration of the total plastic packaging (by category) introduced into the market during that month. The declaration must be submitted within 30 days of the end of each calendar month. Declarations are submitted via the CPCB EPR portal and must include:
+(a) Producer ID
+(b) Reporting month (YYYY-MM format)
+(c) Quantity in kilograms for each plastic category
+(d) Supporting procurement or sales records
+
+SECTION 5: EPR Targets and Obligations
+For FY 2024-25 and onwards, producers must ensure that the EPR obligation (percentage of plastic packaging that must be collected and recycled) is:
+- Rigid Plastic: 50% of total plastic packaging placed on the market
+- Flexible Plastic: 30% of total plastic packaging placed on the market
+- Multilayer Plastic: 30% of total plastic packaging placed on the market
+These targets increase progressively until 100% by FY 2027-28.
+
+SECTION 6: Penalties for Non-Compliance
+Non-compliance with EPR obligations can attract:
+- Environmental Compensation as determined by CPCB
+- Cancellation of EPR registration
+- Legal action under the Environment Protection Act, 1986
+- Public disclosure of defaulters on the CPCB website

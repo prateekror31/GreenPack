@@ -1,0 +1,39 @@
+TITLE: EPR Compliance Reconciliation and Audit Handbook — GreenPack Internal Policy
+SOURCE: GreenPack Industries Internal Compliance Document (Mock Document)
+
+SECTION 1: Purpose of Reconciliation
+Every month, GreenPack Industries must reconcile its EPR declaration (quantities declared to CPCB) against its ERP procurement and sales records. This reconciliation ensures that the declared figures accurately reflect actual market introductions. A mismatch between declared and procured quantities may indicate:
+- Data entry errors in the ERP system
+- Timing differences (goods procured but not yet sold)
+- Undeclared stock movement
+- System synchronization issues
+
+SECTION 2: Tolerance Limits
+GreenPack's compliance policy defines a tolerance of plus or minus 5% between declared and procured quantities for each plastic category. Discrepancies within this tolerance are considered acceptable and attributed to rounding or minor timing differences. Discrepancies exceeding 5% in either direction must be investigated and, if necessary, corrected via a revised declaration on the CPCB portal.
+
+SECTION 3: Step-by-Step Reconciliation Process
+Step 1: Extract the monthly declaration data from the EPR portal for the relevant month and producer ID.
+Step 2: Extract the ERP procurement report for the same month, broken down by plastic category (rigid, flexible, multilayer).
+Step 3: For each category, compute the absolute difference and percentage difference: Diff% = ((Declared - Procured) / Procured) × 100.
+Step 4: Flag any category where abs(Diff%) > 5%.
+Step 5: For flagged categories, investigate the root cause and determine whether a revised declaration is needed.
+Step 6: Submit a revised declaration (if required) via the CPCB EPR portal within 7 days of the reconciliation date.
+Step 7: Document the reconciliation outcome and retain records for 5 years.
+
+SECTION 4: Revised Declaration Procedure
+To submit a revised declaration on the CPCB portal:
+1. Log in with your Producer ID credentials.
+2. Navigate to "Monthly Declarations" → select the relevant month.
+3. Click "Revise Declaration" and update the quantities.
+4. Upload supporting documentation (ERP report, reconciliation worksheet).
+5. Submit for review — CPCB will approve or reject within 15 working days.
+
+SECTION 5: Consequences of Inaccurate Declarations
+Over-declaration (declaring more plastic than actually procured/sold) creates an inflated EPR obligation, leading to unnecessary expenditure on EPR certificates. Under-declaration (declaring less than actually put into market) constitutes a compliance violation and can attract Environmental Compensation notices from CPCB. Repeated violations may result in suspension of EPR registration, which would halt the producer's ability to legally sell plastic packaging products in India.
+
+SECTION 6: ERP Integration Best Practices
+To minimize reconciliation gaps, GreenPack should:
+- Configure ERP to auto-export plastic procurement data by category at month-end.
+- Map ERP SKUs to plastic categories (rigid/flexible/multilayer) using a master mapping table.
+- Schedule automated reconciliation runs on the 2nd working day of each month.
+- Set up alerts for discrepancies exceeding 3% (as an early warning before the 5% threshold).

@@ -1,0 +1,7 @@
+producer_id,month,category,procured_kg
+GREENPACK-001,2026-04,rigid_plastic,11800
+GREENPACK-001,2026-04,flexible_plastic,9100
+GREENPACK-001,2026-04,multilayer_plastic,3150
+GREENPACK-001,2026-03,rigid_plastic,10500
+GREENPACK-001,2026-03,flexible_plastic,8800
+GREENPACK-001,2026-03,multilayer_plastic,2900

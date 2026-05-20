@@ -1,0 +1,13 @@
+{
+  "GREENPACK-001::2026-04": {
+    "record_id": "f5a0d028-e721-439e-ade3-c59468eb331f",
+    "producer_id": "GREENPACK-001",
+    "month": "2026-04",
+    "declared_quantities_kg": {
+      "rigid_plastic": 12000.0,
+      "flexible_plastic": 8500.0,
+      "multilayer_plastic": 3200.0
+    },
+    "submitted_at": "2026-05-20T19:24:03.089977+00:00"
+  }
+}

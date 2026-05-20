@@ -1,0 +1,38 @@
+TITLE: Plastic Waste Management Rules, 2016 — Amended 2022 (Summary)
+SOURCE: Ministry of Environment, Forest and Climate Change (MoEFCC), India (Mock Policy Summary)
+
+SECTION 1: Background and Scope
+The Plastic Waste Management Rules were first notified in 2016 and substantially amended in 2022 to introduce stricter Extended Producer Responsibility (EPR) obligations. The rules apply to every urban local body, gram panchayat, producer, importer, brand owner, plastic waste processor, and recycler involved in the plastic packaging supply chain in India.
+
+SECTION 2: Prohibition on Single-Use Plastics
+With effect from July 1, 2022, the manufacture, import, stocking, distribution, sale, and use of identified single-use plastic items is prohibited. Prohibited items include: plastic sticks for balloons, candy sticks, ice-cream sticks, polystyrene (thermocol) for decoration, plastic plates, cups, glasses, cutlery, straw, trays, wrapping/packing films around sweet boxes, invitation cards, and cigarette packets, plastic or PVC banners less than 100 micron, stirrers. Exemptions exist for plastic packaging meeting minimum thickness requirements for rigid and flexible packaging.
+
+SECTION 3: Minimum Thickness Requirements
+Plastic carry bags must have a minimum thickness of 120 microns. Plastic sheets used for packaging must be at least 120 microns thick. These requirements are meant to ensure recyclability and reduce littering.
+
+SECTION 4: EPR Portal and Compliance
+The CPCB operates a centralized EPR portal for registration and compliance reporting. Producers, importers, and brand owners must:
+1. Register on the portal and obtain a unique EPR ID.
+2. Submit annual EPR action plans detailing how they will meet their collection and recycling targets.
+3. Submit quarterly and annual returns showing actual collection and recycling achieved.
+4. Purchase EPR certificates from registered recyclers to offset uncollected quantities.
+
+SECTION 5: EPR Credit System
+Producers can fulfill their EPR obligations by:
+(a) Setting up their own collection and recycling infrastructure.
+(b) Engaging plastic waste processors (PWPs) registered with CPCB.
+(c) Purchasing EPR certificates (credits) from registered recyclers on the CPCB EPR portal.
+Each certificate represents 1 metric tonne of plastic waste collected and recycled. The price of certificates is determined by market demand and supply on the portal.
+
+SECTION 6: Roles and Responsibilities
+Producer: Responsible for collecting, channelizing, and recycling plastic waste equivalent to their EPR target.
+Importer: Same obligations as a producer for all plastic packaging imported into India.
+Brand Owner: Any person who sells goods in India in plastic packaging under their brand name.
+Urban Local Body (ULB): Responsible for door-to-door collection of waste and handing over plastic waste to registered recyclers.
+
+SECTION 7: Reporting and Record-Keeping
+All PIBOs must maintain records of:
+- Quantity of plastic packaging introduced into the market (by category)
+- Collection and recycling activities undertaken
+- EPR certificates purchased
+Records must be retained for a minimum of 5 years and made available for inspection on request by CPCB or State Pollution Control Boards (SPCBs).
