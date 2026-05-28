@@ -285,7 +285,43 @@ pytest tests/
 - Background task queue
 - Production-grade logging & monitoring
 
----
+--- --- ---- ---- ----- ---- ---- --- 
+
+## Stack Choices, AI Disclosure & Trade-off
+
+### Stack Choices
+| Layer | Choice | Reason |
+|---|---|---|
+| **Framework** | FastAPI | Auto-generates Swagger docs, native Pydantic support, fast to build |
+| **LLM** | OpenAI GPT-4o Mini | Cost-effective, strong instruction following for structured narrative generation |
+| **Embeddings** | `all-MiniLM-L6-v2` (sentence-transformers) | Runs fully locally, zero API cost, cached on disk after first run |
+| **Storage** | JSON file on disk | Zero dependencies, human-readable, trivially swappable to SQLite |
+| **Vector Store** | NumPy cosine similarity | No overhead for 5 documents; a real vector DB would be overengineering here |
+| **Validation** | Pydantic v2 | Deterministic, no LLM needed — exactly the right tool for input validation |
+
+### AI Assistant Disclosure
+This project was built with the assistance of **Claude (claude.ai)** as an AI coding assistant.
+It was used for:
+- Initial scaffolding of the RAG pipeline retrieval logic
+- Pydantic validator patterns
+- README structure and documentation
+
+All business logic (reconciliation math, tolerance flagging, endpoint design) 
+was written and reviewed manually. The AI output was understood, tested, and 
+intentionally modified — not blindly copy-pasted.
+
+### One Trade-off I Made
+**Simplicity over scalability in the storage and vector layer.**
+
+I chose a JSON file for storage and NumPy cosine similarity for retrieval 
+instead of SQLite + ChromaDB. This made the project trivially easy to run 
+locally with zero setup — no database to install, no vector store to configure. 
+The trade-off is that it won't scale beyond a few hundred records or documents.
+
+With another day, I would replace the JSON store with **SQLite via SQLAlchemy** 
+and the NumPy retrieval with **ChromaDB** — both are drop-in changes since the 
+storage logic is isolated behind two functions (`store_declaration`, 
+`get_declaration`) and the RAG retrieval is self-contained in `ask.py`.
 
 # Author
 
